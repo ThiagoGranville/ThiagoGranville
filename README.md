@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, me chamo Thiago Granville</h1>
-<h3 align="center">Um Desenvolvedor Back End em desenvolvimento, de Jaboatão dos Guararapes - PE</h3>
+<h1 align="center">Hi 👋, i'm Thiago Granville</h1>
+<h3 align="center">Future Back End Devoloper, based on Jaboatão dos Guararapes - PE, Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
